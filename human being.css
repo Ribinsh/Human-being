@@ -1,0 +1,407 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.firstdiv{
+    width: 100%;
+    height: 20px;
+    background-color: #0b0e12;
+    color:#FFCB05;
+    font-size: 11px;
+    letter-spacing: 1.2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 10px;
+    display: flex;
+    padding-left: 480px;
+    font-weight: lighter;
+}
+.firstdivright{
+    width: 200px;
+    height: 15px;
+    
+    margin-left: 300px;
+}
+.firstdivright ul{
+    list-style: none;
+    display: inline-block;
+    margin-left: 20px;
+
+    
+}
+.firstdivright a{
+    text-decoration: none;
+    color:#FFCB05;
+}
+
+
+
+.header{
+    width: 100%;
+    height:80px ;
+    background-color:white;
+    display: flex;
+}
+.header img{
+    width: 75px;
+    height: 75px;
+    padding-left: 60px;
+}
+.header UL{
+    display: inline-block;
+    list-style: none;
+    margin-left: 80px;
+    margin-top: 30px;
+    font-size: 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    letter-spacing: 1.5px;
+    
+}
+.header a{
+    color: black;
+    text-decoration: none;
+}
+.page1{
+    width: 100%;
+    height: 633px;
+    background-image: url("being human page1");
+    display: flex;
+    background-size: cover;
+}
+.page2{
+    width: 100%;
+    height: 633px;
+    background-color:white;
+    display: flex;
+}
+.men{
+    width: 618px;
+    height: 538px;
+    background-image: url("shop all men");
+    background-position: center;
+    background-size: cover;
+    margin-top: 80px;
+    cursor: pointer;
+   
+}
+.women{
+    width: 618px;
+    height: 538px;
+    background-image: url("shop all women");
+    background-position: center;
+    background-size: cover;
+    margin-top: 80px;
+    margin-left: 25px;
+    cursor: pointer;
+    
+
+}
+.page3{
+    width: 100%;
+    height: 700px;
+    
+    display: flex;
+}
+.page3top{
+    width: 100%;
+    height: 140px;
+    background-color: white;
+    padding-top: 60px;
+}
+.page3top span{
+    font-size: 40px;
+    color:black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 400px;
+    
+}
+.menbutton{
+    background-color: rgb(35, 35, 35);
+    color: yellow;
+    margin-left: 400px;
+    height: 44px;
+    width: 214px;
+    margin-top: 20px;
+    border-color: white;
+    
+}
+.womenbutton{
+    background-color: rgb(223, 223, 223);
+    padding: 0px 0px 0px 0px;
+    height: 44px;
+    width: 214px;
+    margin-left: -7px;
+    border-color: white;
+}
+.page3part1{
+    width: 354px;
+    height: 500px;
+  
+    margin-top: 200px;
+    margin-left: -1180px;
+    
+}
+
+.page3part2{
+    width: 354px;
+    height: 500px;
+  
+    margin-top: 200px;
+    margin-left: 20px;
+    
+}
+.page3part3{
+    width: 354px;
+    height: 500px;
+    
+    margin-top: 200px;
+    margin-left: 20px;
+    
+}
+.span3{
+    font-size: 18px;
+    font-family:monospace;
+}
+.page4{
+    width: 100%;
+    height: 700px;
+    
+    display: flex;
+}
+.page4 video{
+    width: 1137px;
+    height: 640px;
+    margin-left: 65px;
+    margin-top: 40px;
+}
+.page5{
+    width: 100%;
+    height: 700px;
+   
+    display: flex;
+}
+.page5part1{
+    width: 720px;
+    height: 581px;
+    margin-top: 80px;
+    background-color: chartreuse;
+}
+.page5part1 img{
+    width: 720px;
+    height: 581px;
+}
+.page5part2{
+    width: 400px;
+    height: 600px;
+    margin-top: 80px;
+   
+    margin-left: 80px;
+    padding-top: 150px;
+    padding-left: 80px;
+    letter-spacing: 2px;
+}
+.page5part2 p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.seasonsale{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size: 40px;
+    
+}
+.shop{
+    border: 1px solid;
+    background-color: black;
+    color: yellow;
+    border-color: black;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    text-decoration: none;
+    text-align: center;
+}
+.shopmen{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    margin-top: -15px;
+    margin-left: 0px;
+    position: sticky;
+}
+.shopwomen{
+    width: 400px;
+    height: 50px;
+   text-align: center;
+    margin-top: 417px;
+    margin-left: -450px;
+}
+
+.page6{
+    width: 100%;
+    height: 841px;
+    background-image: url("https://pictures.kartmax.in/live/original/0x0/sites/w0ACRcy407Pb14QWUoSQ/theme/salmankhan-c0ef4eeb-74f5-4ee1-a033-e2168d1c7c43.jpg");
+    display: flex;
+    background-size: cover;
+    
+    
+}
+.page6div{
+    width: 550px;
+    height: 57px;
+    padding-left: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+    border-left: 1px solid;
+    border-color: #FFCB05;
+    color: white;
+    margin-left: -380px;
+    margin-top: 547px;
+}
+.page6 h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    letter-spacing: 4px;
+    font-weight: lighter;
+    color: white;
+    margin-top: 480px;
+    margin-left: 500px;
+}
+
+.mainfooter{
+    width: 100%;
+    height: 200px;
+
+    display: flex;
+}
+.mainfooter1{
+    width: 400px;
+    height: 165px;
+
+    margin-top: 30px;
+    margin-left: 30px;
+
+    
+}
+.mainfooter1 img{
+    width: 53px;
+    height: 53px;
+    margin-left: 180px;
+    
+}
+.mainfooter2{
+    width: 400px;
+    height: 165px;
+
+    margin-top: 30px;
+} 
+.mainfooter2 img{
+    width: 40px;
+    height: 40px;
+    margin-left: 180px;
+    margin-top: 15px;
+    cursor: pointer;
+        
+}
+
+
+.mainfooter3{
+    width: 400px;
+    height: 165px;
+    background-color:white;
+    margin-top: 30px;
+    
+}
+.mainfooter3 img{
+    margin-top: 15px;
+    width: 34px;
+    height: 34px;
+    margin-left: 180px;
+        
+}
+.mainfooter p{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.footerheading{
+    font-weight: bold;
+
+}
+
+.beinghuman{
+    width: 100%;
+    height: 106px;
+    
+}
+.beinghuman img{
+    width: 106px;
+    height: 106px;
+    margin-left: 600px;
+}
+.bottom{
+    width: 100%;
+    height: 72px;
+    line-height: 19px;
+    font-size: 18px;
+    letter-spacing: 0.6px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.end1{
+    width: 625px;
+    height: 228px;
+    float: left;
+    margin-left: 60px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color: black;
+}
+.end1part1{
+    height: 157px;
+    width: 208px;
+    margin-top: 50px;
+    float: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.end1part2{
+    height: 157px;
+    width: 208px;
+    float: left;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    
+}
+.end2{
+    width: 511px;
+    height: 228px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color: black;
+    float: left;
+}
+.input{
+    width: 260px;
+    height: 51px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: rgb(124, 124, 124);
+    background-color: whitesmoke;
+    padding: 0px 0px 0px 70px;
+    margin-top: 60px;
+}
+.endbutton{
+    background-color: rgb(35, 35, 35);
+    color: yellow;
+    height: 58px;
+    width: 150px;
+}
+.final{
+    width: 100%;
+    height: 30px;
+  
+    margin-top: 228px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+    
+}
